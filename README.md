@@ -13,4 +13,4 @@
    |  Read3        | [structure web pages ](read3.md)      |     
    |  Read04a      | [JavaScript](read04a.md)              |
    |  Lab04        | [app.js](Lab04.md)                    |
-   |  Read05       | [Operators and Loops](Read05)         |
+   |  Read05       | [Operators and Loops](read05)         |
