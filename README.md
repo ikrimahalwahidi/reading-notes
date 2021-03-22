@@ -14,3 +14,4 @@
    |  Read04a      | [JavaScript](read04a.md)              |
    |  Lab04        | [app.js](Lab04.md)                    |
    |  Read05       | [Operators and Loops](read05)         |
+   |  Read06       | [Design Web Pages](read06)            |
