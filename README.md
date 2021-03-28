@@ -16,3 +16,4 @@
    |  Read05       | [Operators and Loops](read05)         |
    |  Read06       | [Design Web Pages](read06)            |
    |  class-01     | [Basics of HTML, CSS & JS](class-01)  |
+   |  class-02     | [Basics of HTML, CSS & JS](class-02)  |
