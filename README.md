@@ -9,14 +9,14 @@
 
    |   Assignment  |         Link                          |
    |---------------|---------------------------------------|
-   |  Read1        | [The coders](read1.md)                |
-   |  Read02a      | [Learning markdown](read021.md)       |
-   |  Read02b      | [Revisions and the cloud](read02b.md) |         
-   |  Read3        | [structure web pages ](read3.md)      |     
-   |  Read04a      | [JavaScript](read04a.md)              |
-   |  Lab04        | [app.js](Lab04.md)                    |
-   |  Read05       | [Operators and Loops](read05)         |
-   |  Read06       | [Design Web Pages](read06)            |
+   |  Read1        | [The coders](code102/read1.md)                |
+   |  Read02a      | [Learning markdown](code102/read021.md)       |
+   |  Read02b      | [Revisions and the cloud](code102/read02b.md) |         
+   |  Read3        | [structure web pages ](code102/read3.md)      |     
+   |  Read04a      | [JavaScript](code102/read04a.md)              |
+   |  Lab04        | [app.js](code102/Lab04.md)                    |
+   |  Read05       | [Operators and Loops](code102/read05)         |
+   |  Read06       | [Design Web Pages](code102/read06)            |
    
    
    
@@ -25,9 +25,9 @@
     
    |   Assignment  |         Link                                            |
    |---------------|---------------------------------------                  |
-   |  Read 1       | [Introductory HTML and JavaScript](class-01.md)         |
-   |  Read 2       | [HTML Text,CSS intro,and Basic Java script](class-02.md)|       
-   |  Read 3       | [HTML Lists, CSS Boxes, JS Control Flow](read03/code201.md)             |    
+   |  Read 1       | [Introductory HTML and JavaScript](code201/class-01.md) |
+   |  Read 2       | [HTML Text,CSS intro,and Basic Java script](code201/class-02.md)|       
+   |  Read 3       | [HTML Lists, CSS Boxes, JS Control Flow](code201/read03.md)             |    
    |  Read 4       | [HTML Links, CSS Layout, JS Functions]()                |     
    |  Read 5       | [HTML Images; CSS Color & Text]()                       |
    |  Read 6       | [ JS Object Literals; The DOM]()                        |
