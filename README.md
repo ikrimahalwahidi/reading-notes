@@ -2,8 +2,7 @@
  >i gradutae Graphic Design - From Ajman university (UAE)
 
   *Table of content* :
-
-
+ # Code 102 Reading Notes
 
    |   Assignment  |         Link                          |
    |---------------|---------------------------------------|
@@ -16,17 +15,16 @@
    |  Read05       | [Operators and Loops](read05)         |
    |  Read06       | [Design Web Pages](read06)            |
    
-
-
-
-
-
    
+   
+   # Code 201 Reading Notes
+
+    
    |   Assignment  |         Link                                            |
    |---------------|---------------------------------------                  |
    |  Read 1       | [Introductory HTML and JavaScript](class-01.md)         |
    |  Read 2       | [HTML Text,CSS intro,and Basic Java script](class-02.md)|       
-   |  Read 3       | [HTML Lists, CSS Boxes, JS Control Flow](read03/code201.md)              |    
+   |  Read 3       | [HTML Lists, CSS Boxes, JS Control Flow](read03/code201.md)             |    
    |  Read 4       | [HTML Links, CSS Layout, JS Functions]()                |     
    |  Read 5       | [HTML Images; CSS Color & Text]()                       |
    |  Read 6       | [ JS Object Literals; The DOM]()                        |
