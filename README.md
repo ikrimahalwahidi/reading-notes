@@ -1,7 +1,10 @@
+
+ 
  >My name is Ikrimah ALwahidi 
  >i gradutae Graphic Design - From Ajman university (UAE)
 
   *Table of content* :
+
  # Code 102 Reading Notes
 
    |   Assignment  |         Link                          |
