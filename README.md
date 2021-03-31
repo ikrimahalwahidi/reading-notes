@@ -29,7 +29,7 @@
    |  Read 2       | [HTML Text,CSS intro,and Basic Java script](code201/class-02.md)|       
    |  Read 3       | [HTML Lists, CSS Boxes, JS Control Flow](code201/read03.md)             |    
    |  Read 4       | [HTML Links, CSS Layout, JS Functions](code201/read04.md)                |     
-   |  Read 5       | [HTML Images; CSS Color & Text]()                       |
+   |  Read 5       | [HTML Images; CSS Color & Text](code201/read05.md)                       |
    |  Read 6       | [ JS Object Literals; The DOM]()                        |
    |  Read 7       | [HTML Tables; JS Constructor]()                         |
    |  Read 8       | [More CSS Layout]()                                     |
