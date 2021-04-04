@@ -53,7 +53,7 @@ are created inside (and are how to create your own then see used throughout
 part of) an object. objects using JavaScript. the rest of the book.
 
 
-#### WHAT IS A FUNCTION?
+## WHAT IS A FUNCTION?
 Functions let you group a series of statements together to perform a
 specific task. If different parts of a script repeat the same task, you can
 reuse the function (rather than repeating the same set of st atements).
