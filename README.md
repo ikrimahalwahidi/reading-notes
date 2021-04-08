@@ -35,7 +35,7 @@
    |  Read 8       | [More CSS Layout](code201/read08.md)                                     |
    |  Read 9       | [Forms and Events](code201/read09.md)                                    |
    |  Read 10      | [JS Debugging](code201/read10.md)                                        |
-   |  Read 11      | [Assorted Topics]()                                     |
+   |  Read 11      | [Assorted Topics](code201/read11.md)                                     |
    |  Read 12      | [Docs for the HTML <canvas> Element & Chart.js]()       |    
    |  Read 13      | [Local Storage]()                                       |
    |  Read 14      | [What Google Learned About Teams]()                     |  
