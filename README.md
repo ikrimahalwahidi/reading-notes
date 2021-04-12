@@ -36,7 +36,7 @@
    |  Read 9       | [Forms and Events](code201/read09.md)                                    |
    |  Read 10      | [JS Debugging](code201/read10.md)                                        |
    |  Read 11      | [Assorted Topics](code201/read11.md)                                     |
-   |  Read 12      | [Docs for the HTML <canvas> Element & Chart.js]()       |    
+   |  Read 12      | [Docs for the HTML <canvas> Element & Chart.js](code201/read12.md)       |    
    |  Read 13      | [Local Storage]()                                       |
    |  Read 14      | [What Google Learned About Teams]()                     |  
    |  Read 15      | [project]()                                             |
